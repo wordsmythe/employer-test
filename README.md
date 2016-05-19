@@ -67,3 +67,8 @@
 * Does your company have an active diversity policy/program?
 
 ## "Org smells"
+
+
+## Notes
+
+* Every leaf question should have a yes or no response
