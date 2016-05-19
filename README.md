@@ -1,4 +1,6 @@
-# prospective-employers
+# employer-test
+
+A list of questions to ask potential employers.
 
 ## Work Style
 
