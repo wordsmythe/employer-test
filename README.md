@@ -1,5 +1,12 @@
 # prospective-employers
 
+## Work Style
+
+### Ownership
+
+* Does one single person own a unit of work (task, project, product, etc)?
+* Can that single person's manager override the decisions made by that person on that unit of work?
+
 ## Employee Health and Fatigue
 
 ### Locations
@@ -39,12 +46,22 @@
 * Is all employee compensation known within the company?
 * Is employee compensation shared within the team?
 
+## Organizational Structure
+
+### Who do people report to?
+
+* Does every individual have one single manager they report to?
+
 ## Tech / Tools
 
-* What's your policy on personal devices on the network?
+### How are devices supported?
+
+* Are personal devices allowed to connect to the company network?
 * BYOD? BYOA?
 
 ## Diversity
+
+### How is diversity handled?
 
 * Composition of team you will be joining?
 * Does your company have an active diversity policy/program?
