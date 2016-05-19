@@ -14,6 +14,12 @@
 * How much time off is given per employee?
 * Do different employees get a different amount of time off?
 * Is there a minimum amount of time off required/expected of each employee?
+* Is sick leave counted as time off?
+
+### Parental leave
+
+* Who is eligible for parental leave?
+* How much parental leave is given?
 
 ### On Call
 
@@ -32,3 +38,15 @@
 * Is all employee compensation public knowledge?
 * Is all employee compensation known within the company?
 * Is employee compensation shared within the team?
+
+## Tech / Tools
+
+* What's your policy on personal devices on the network?
+* BYOD? BYOA?
+
+## Diversity
+
+* Composition of team you will be joining?
+* Does your company have an active diversity policy/program?
+
+## "Org smells"
