@@ -35,11 +35,11 @@ A list of questions to ask potential employers.
 * Are employees expected to be on call?
 * If employers are expected to be on call, is a device provided or compensated?
 
-## Compensation
+## Compensation and Benefits
 
 ### How is compensation calculated?
 
-* Do you use pay bands?
+* Are pay bands used to determine compensation?
 * Is compensation negotiable?
 
 ### How transparent is your compensation?
@@ -47,6 +47,17 @@ A list of questions to ask potential employers.
 * Is all employee compensation public knowledge?
 * Is all employee compensation known within the company?
 * Is employee compensation shared within the team?
+
+### What kind of meals are compensations?
+
+* Is lunch provided?
+* Is dinner available and provided?
+* Is there non-meal time food available?
+
+### Is transportation compensated?
+
+* Is the work location easily accessible via public transportation?
+* Is there a commuter benefit program to pay for transportation?
 
 ## Organizational Structure
 
