@@ -11,6 +11,10 @@ A list of questions to ask potential employers.
 
 ## Employee Health and Fatigue
 
+### Work Hours
+
+* How many days do employees work over the standard working hours?
+
 ### Locations
 
 * Can employees work outside of the office ("work from home")?
@@ -81,7 +85,3 @@ A list of questions to ask potential employers.
 
 ## "Org smells"
 
-
-## Notes
-
-* Every leaf question should have a yes or no response
