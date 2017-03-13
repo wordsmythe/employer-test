@@ -33,11 +33,12 @@ A list of questions to ask potential employers.
 
 * Who is eligible for parental leave?
 * How much parental leave is given?
+* How much parental leave is taken?
 
 ### On Call
 
 * Are employees expected to be on call?
-* If employers are expected to be on call, is a device provided or compensated?
+* If employees are expected to be on call, is a device provided or compensated?
 
 ## Compensation and Benefits
 
@@ -69,6 +70,10 @@ A list of questions to ask potential employers.
 
 * Does every individual have one single manager they report to?
 
+### Distributed teams
+
+* How do you approach distributed teams?
+
 ## Tech / Tools
 
 ### How are devices supported?
@@ -85,3 +90,16 @@ A list of questions to ask potential employers.
 
 ## "Org smells"
 
+## Finance
+
+* What is the customer churn and/or renewal rate?
+  * Whether they know the rates is a good indicator, separate from what it is.
+* (If a startup) What is your runway? How many employees do you have?
+
+## Benefits
+
+What benefits do they offer?
+
+## See also
+
+- Julia Evans' [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
