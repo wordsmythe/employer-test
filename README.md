@@ -9,11 +9,23 @@ A list of questions to ask potential employers.
 * Does one single person own a unit of work (task, project, product, etc)?
 * Can that single person's manager override the decisions made by that person on that unit of work?
 
+### Culture
+
+* Do managers regularly meet 1-1 with their reports?
+* How are goals communicated throughout the organization?
+* How is mentorship approached?
+
+### Other teams
+
+* How does this role relate to other teams?
+* Do people regularly interact across departments?
+
 ## Employee Health and Fatigue
 
 ### Work Hours
 
 * How many days do employees work over the standard working hours?
+* What are the standard working hours?
 
 ### Locations
 
@@ -55,14 +67,10 @@ A list of questions to ask potential employers.
 
 ### What kind of meals are compensations?
 
+* Is breakfast provided?
 * Is lunch provided?
 * Is dinner available and provided?
 * Is there non-meal time food available?
-
-### Is transportation compensated?
-
-* Is the work location easily accessible via public transportation?
-* Is there a commuter benefit program to pay for transportation?
 
 ## Organizational Structure
 
@@ -73,6 +81,9 @@ A list of questions to ask potential employers.
 ### Distributed teams
 
 * How do you approach distributed teams?
+* Are managers and reports co-located?
+* Are teams co-located?
+* How are decisions handed off between time zones and locations?
 
 ## Tech / Tools
 
@@ -83,10 +94,11 @@ A list of questions to ask potential employers.
 
 ## Diversity
 
-### How is diversity handled?
+### How is diversity approached?
 
 * Composition of team you will be joining?
 * Does your company have an active diversity policy/program?
+* How do you define diversity?
 
 ## "Org smells"
 
@@ -96,10 +108,7 @@ A list of questions to ask potential employers.
   * Whether they know the rates is a good indicator, separate from what it is.
 * (If a startup) What is your runway? How many employees do you have?
 
-## Benefits
-
-What benefits do they offer?
-
 ## See also
 
 - Julia Evans' [Questions I'm asking in interviews](http://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)
+- [@dml's](https://github.com/dlovitch) list of [Compensation and Benefits](https://github.com/dlovitch/compensation-and-benefits)
