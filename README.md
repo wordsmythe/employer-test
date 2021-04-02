@@ -4,6 +4,15 @@ A list of questions to ask potential employers.
 
 ## Work Style
 
+### Role Definition
+
+* Can you elaborate on the day-to-day responsibilities this job entails?
+* What is the most important thing I could do to help within the first 90 days of employment?
+* What are some of the challenges you've seen people in the role or on this team encounter?
+* What are the skills and experiences you're looking for in an ideal candidate?
+* What types of skills is the team missing that you're looking to fill with a new hire?
+* What does the career path for someone in this role look like?
+
 ### Ownership
 
 * Does one single person own a unit of work (task, project, product, etc)?
@@ -41,6 +50,7 @@ A list of questions to ask potential employers.
 ### Other teams
 
 * How does this role relate to other teams?
+* What other departments does this team work with?
 * Do people regularly interact across departments?
 
 ### Defining Success and Failure
@@ -52,6 +62,7 @@ A list of questions to ask potential employers.
 * What does success look like in this position?
 * Imagine it's a year from now, and you're thinking to yourself "We made a poor choice in hiring for this role". What are the things the person you hired did that make you regret the hire?
 * What concerns do you have about my suitability for this role? 
+* How would my success be measured?
 
 ## Employee Health and Fatigue
 
@@ -89,6 +100,8 @@ A list of questions to ask potential employers.
 * What sorts of tasks does your team do to reduce the number of on-call incidents?
 
 ## Future
+
+* What changes or innovations in the industry are you most excited about?
 
 ## Growth
 
@@ -132,6 +145,7 @@ A list of questions to ask potential employers.
 ### Who do people report to?
 
 * Does every individual have one single manager they report to?
+* What does the reporting structure around this role look like?
 
 ### Distributed teams
 
