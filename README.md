@@ -40,6 +40,7 @@ A list of questions to ask potential employers.
 * Tell me about a time where values were considered as part of making a tough decision. How did values affect the outcome?
 
 ### Leadership / Management
+* What does it feel like to receive feedback from you? From other leaders?
 * Do managers regularly meet 1-1 with their reports?
 * How responsive is your management to your questions and concerns?
 * What does success look like for a manager here? How about failure?
