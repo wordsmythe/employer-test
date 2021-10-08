@@ -2,6 +2,13 @@
 
 A list of questions to ask potential employers.
 
+## Selling myself, setting up First 90 Days
+* What do you hope my performance looks like in 2 years? "If you choose to hire me and you look back 6 months from now, what would make you think you made the right decision?"
+*  "after the discussions we've had, what do you feel like you still don't know about me?" 
+*  "from our conversation, what concerns do you have about me in this role that I could address now" or if more direct, "what could I do to help you feel more confident about making the decision to hire me? Any concerns I could address, etc". 
+* How do you see my skills and experience fitting with the needs of the company?
+* Does your org do "manager readmes" or "personal user guides" to help new people get to know the team?
+
 ## Work Style
 
 ### Role Definition
@@ -20,6 +27,7 @@ A list of questions to ask potential employers.
 
 ### Culture
 
+* What gives many people culture shock when they join this company?
 * How are goals communicated throughout the organization?
 * How is mentorship approached?
 * What does a week look like when the stars align and everything goes the very best it can?
