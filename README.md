@@ -183,6 +183,17 @@ A list of questions to ask potential employers.
 
 
 ## "Org smells"
+Cf. https://www.scrum.org/resources/blog/9-smells-organization
+* Constraint versus Stretch
+* Compliance versus Discipline (systems vs. norms, guidance vs. trust)
+* Control versus Support
+* Contract versus Trust
+
+* Product vs. Project
+* Planning vs. Prognosis
+* Committment vs. Forecast
+* Are people treated as "resources"? (Could be treated better, or worse)
+* Requirements vs. Desirements
 
 ## Finance
 
